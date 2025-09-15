@@ -18,17 +18,6 @@ I’m passionate about building the **next generation of intelligent software sy
 
 ---
 
-## 🎓 Certificates  
-
-- Agentic AI with LangChain & CrewAI (*add link*)  
-- OpenAI & LLM Applications Development (*add link*)  
-- Java Microservices with Spring Boot (*add link*)  
-- React.js Advanced Frontend Development (*add link*)  
-
-*(Replace placeholders with your actual certificate links)*  
-
----
-
 ## 🛠️ Technical Skills  
 
 ### 🔹 Agentic AI & GenAI Development  
@@ -45,7 +34,7 @@ I’m passionate about building the **next generation of intelligent software sy
 
 ## 📊 GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanOO7&layout=compact&theme=radical)
+(![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanOO7&layout=compact&theme=radical&hide=html)
 
 ---
 
