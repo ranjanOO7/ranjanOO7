@@ -34,7 +34,7 @@ I’m passionate about building the **next generation of intelligent software sy
 
 ## 📊 GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanOO7&layout=compact&theme=radical&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanOO7&layout=compact&theme=radical&hide=html&cache_seconds=1800)
 
 ---
 
