@@ -10,7 +10,7 @@
 
 I’m passionate about building the **next generation of intelligent software systems** that combine **GenAI models, autonomous agents, and robust backend architectures**.  
 
-- 🧠 Experienced in **designing AI agents** using **LangChain, CrewAI, and OpenAI APIs** for automation and reasoning  
+- 🧠 Experienced in **designing AI agents** using **LangChain, Langgraph, CrewAI, and OpenAI APIs** for automation and reasoning  
 - ⚡ Skilled at **integrating LLMs** with real-world tools (APIs, databases, search engines like **SerpAPI**)  
 - 💡 Strong background in **microservices, Kafka/AMQ, and distributed event-driven systems**  
 - 🎨 Full-stack experience with **React.js, Redux, Node.js, and modern UI frameworks**  
@@ -21,7 +21,8 @@ I’m passionate about building the **next generation of intelligent software sy
 ## 🛠️ Technical Skills  
 
 ### 🔹 Agentic AI & GenAI Development  
-- **Python**, **LangChain**, **CrewAI**, **OpenAI API**, **SerpAPI**, **Vector Databases (Pinecone, Chroma)**  
+- **Python**, **LangChain**, **Langgraph**, **CrewAI**, **OpenAI API**, **SerpAPI**, **Vector Databases (Pinecone, Chroma)**
+- **BERT**, **LargeLanguageModels**, **SmallLanguageModels**, **TextEmbeddings**
 - **Prompt Engineering**, **LLM Integration**, **RAG Pipelines**, **AI Workflow Automation**  
 
 ### 🔹 Backend Engineering  
